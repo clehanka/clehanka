@@ -3,12 +3,16 @@
  - embedded systems
  - protocol-design
  - hardware-design
+ - fpga
+ - signal processing
  - ...
  
  ### Jobs
  - SWT Chair Uni Bamberg (testing, maintenance, sw-engineering)
- - HS Aalen (protocol-design)
- - Bosch (internship)
+ - Hs Aalen (protocol-design)
+ - Bosch (internship, Code Generator)
+ - Akkodis (Thesis, FPGA based signal acquisition, Qubit state estimation and timing analysis)
+ - Hs Aalen (embedded software, simulation and measurement code indoor localization, electronic design)
  
 
 <!---
